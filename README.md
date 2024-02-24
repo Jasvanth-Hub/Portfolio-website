@@ -1,2 +1,2 @@
-# Portfolio-website
- This is  portfoilo website where you can see all the technical details of me.
+# Responsive-Portfolio-Website
+ A Responsive Portfolio website that showcases my skills, projects, and experience.
