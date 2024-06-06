@@ -1,70 +1,90 @@
-# Getting Started with Create React App
+# Jasvanth's Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my portfolio website! This project showcases my skills, projects, and contact information. It is built using React.js and demonstrates my proficiency in various web technologies.
 
-## Available Scripts
+**[View the Portfolio Website](https://jasvanth-hub.github.io/Portfolio-website/)**
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+- [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Introduction
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This portfolio website is a comprehensive showcase of my projects, skills, and contact information. It is designed to provide a user-friendly interface to explore my work and get in touch with me.
 
-### `npm test`
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Home Section**: An introduction about me, including social media links and a brief overview of my background.
+- **Portfolio Section**: A showcase of my projects with descriptions and technologies used.
+  - **To-Do List App**: A task management application.
+  - **Weather App**: A real-time weather information application.
+  - **Form Validation**: A form validation application with real-time feedback.
+  - **QR Code Generator**: An application to create customizable QR codes.
+  - **Captcha Verification**: A security feature to prevent automated bots.
+  - **Simple Calculator**: A basic arithmetic calculator.
+- **Skills Section**: A list of my technical skills.
+- **Contact Section**: A form to get in touch with me.
+- **Footer**: Links to my social media profiles and GitHub repository.
 
-### `npm run build`
+## Technologies Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap (for styling)
+- Various APIs (Weather API, QR Code API)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run this project locally, follow these steps:
 
-### `npm run eject`
+1. **Clone the repository:**
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+    ```bash
+    git clone https://github.com/Jasvanth-Hub/portfolio-website.git
+    cd portfolio-website
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Install dependencies:**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    ```bash
+    npm install
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. **Start the development server:**
 
-## Learn More
+    ```bash
+    npm start
+    ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Open your browser and navigate to `http://localhost:3000` to view the website.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+- Navigate through the sections using the navigation bar.
+- Explore the portfolio to see detailed descriptions of my projects.
+- Use the contact form to get in touch with me.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact
 
-### Analyzing the Bundle Size
+Feel free to reach out to me through the following platforms:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Email**: [bhukyajasvanth@gmail.com](mailto:bhukyajasvanth@gmail.com)
+- **LinkedIn**: [Jasvanth Bhukya](https://www.linkedin.com/in/jasvanth-bhukya-8a1b16256)
+- **GitHub**: [Jasvanth-Hub](https://www.github.com/Jasvanth-Hub)
+- **Instagram**: [jasvanth.typing](https://www.instagram.com/jasvanth.typing)
 
-### Making a Progressive Web App
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Created by [Jasvanth Bhukya](#) | &copy; All Rights Reserved.
