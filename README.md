@@ -81,9 +81,6 @@ Feel free to reach out to me through the following platforms:
 - **GitHub**: [Jasvanth-Hub](https://www.github.com/Jasvanth-Hub)
 - **Instagram**: [jasvanth.typing](https://www.instagram.com/jasvanth.typing)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
